@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "748266229245",
+    "firebase_url": "https://elefstore-5e30e-default-rtdb.firebaseio.com",
+    "project_id": "elefstore-5e30e",
+    "storage_bucket": "elefstore-5e30e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748266229245:android:c93bbb9e05eefb280a5d94",
+        "android_client_info": {
+          "package_name": "com.example.elef_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfib6Qqt5wx0tlYmztkzvmUflgCIGfgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748266229245:android:bfc7fe8498bbbcf10a5d94",
+        "android_client_info": {
+          "package_name": "com.example.elef_shop_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfib6Qqt5wx0tlYmztkzvmUflgCIGfgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748266229245:android:f1376e9f819982150a5d94",
+        "android_client_info": {
+          "package_name": "com.example.eleffashionspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfib6Qqt5wx0tlYmztkzvmUflgCIGfgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
